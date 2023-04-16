@@ -1,0 +1,4 @@
+baseURL = 'https://student.cloud.htl-leonding.ac.at/e.halilovic'
+languageCode = 'en-us'
+title = 'EMA HUGO'
+theme = 'ananke'
